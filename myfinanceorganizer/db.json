@@ -1,0 +1,67 @@
+{
+  "filiados": [
+    {
+      "name": "Maxson Almeida - Assistente Administrativo do SINDIPORTO",
+      "contact": "asdasd",
+      "locality": {
+        "id": "6",
+        "name": "CONCEIÇÃO DO ARAGUAIA"
+      },
+      "id": 1
+    }
+  ],
+  "locality": [
+    {
+      "id": 1,
+      "name": "ANANINDEUA"
+    },
+    {
+      "id": 2,
+      "name": "BARCARENA"
+    },
+    {
+      "id": 3,
+      "name": "BELÉM"
+    },
+    {
+      "id": 4,
+      "name": "BUJARU"
+    },
+    {
+      "id": 5,
+      "name": "CASTANHAL"
+    },
+    {
+      "id": 6,
+      "name": "CONCEIÇÃO DO ARAGUAIA"
+    },
+    {
+      "id": 7,
+      "name": "IGARAPÉ-MIRI"
+    },
+    {
+      "id": 8,
+      "name": "LIMOEIRO DO AJURU"
+    },
+    {
+      "id": 9,
+      "name": "MARABÁ"
+    },
+    {
+      "id": 10,
+      "name": "MARITUBA"
+    },
+    {
+      "id": 11,
+      "name": "MOJU"
+    },
+    {
+      "id": 12,
+      "name": "SANTA LUZIA DO PARÁ"
+    },
+    {
+      "id": 13,
+      "name": "SANTARÉM NOVO"
+    }
+  ]
+}
